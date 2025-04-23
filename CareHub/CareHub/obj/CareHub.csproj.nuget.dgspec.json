@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\uamr basheer\\FYP UMAR\\CareHub\\CareHub\\CareHub.csproj": {}
+    "D:\\Umar Fyp\\FYP UMAR\\CareHub\\CareHub\\CareHub.csproj": {}
   },
   "projects": {
-    "D:\\uamr basheer\\FYP UMAR\\CareHub\\CareHub\\CareHub.csproj": {
+    "D:\\Umar Fyp\\FYP UMAR\\CareHub\\CareHub\\CareHub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\uamr basheer\\FYP UMAR\\CareHub\\CareHub\\CareHub.csproj",
+        "projectUniqueName": "D:\\Umar Fyp\\FYP UMAR\\CareHub\\CareHub\\CareHub.csproj",
         "projectName": "CareHub",
-        "projectPath": "D:\\uamr basheer\\FYP UMAR\\CareHub\\CareHub\\CareHub.csproj",
+        "projectPath": "D:\\Umar Fyp\\FYP UMAR\\CareHub\\CareHub\\CareHub.csproj",
         "packagesPath": "C:\\Users\\LPT799.PROSOFT\\.nuget\\packages\\",
-        "outputPath": "D:\\uamr basheer\\FYP UMAR\\CareHub\\CareHub\\obj\\",
+        "outputPath": "D:\\Umar Fyp\\FYP UMAR\\CareHub\\CareHub\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

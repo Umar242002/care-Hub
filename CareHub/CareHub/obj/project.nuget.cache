@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dW1Jk5fr/0M=",
+  "dgSpecHash": "FMFfupucBXY=",
   "success": true,
-  "projectFilePath": "D:\\uamr basheer\\FYP UMAR\\CareHub\\CareHub\\CareHub.csproj",
+  "projectFilePath": "D:\\Umar Fyp\\FYP UMAR\\CareHub\\CareHub\\CareHub.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LPT799.PROSOFT\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\LPT799.PROSOFT\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

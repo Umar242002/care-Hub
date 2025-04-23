@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Umar Fyp\\FYP UMAR\\CareHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47F98714-C508-48C8-B959-D12A481B5092}|CareHub\\CareHub.csproj|d:\\umar fyp\\fyp umar\\carehub\\carehub\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47F98714-C508-48C8-B959-D12A481B5092}|CareHub\\CareHub.csproj|solutionrelative:carehub\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47F98714-C508-48C8-B959-D12A481B5092}|CareHub\\CareHub.csproj|d:\\umar fyp\\fyp umar\\carehub\\carehub\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47F98714-C508-48C8-B959-D12A481B5092}|CareHub\\CareHub.csproj|solutionrelative:carehub\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47F98714-C508-48C8-B959-D12A481B5092}|CareHub\\CareHub.csproj|d:\\umar fyp\\fyp umar\\carehub\\carehub\\models\\database\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47F98714-C508-48C8-B959-D12A481B5092}|CareHub\\CareHub.csproj|solutionrelative:carehub\\models\\database\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47F98714-C508-48C8-B959-D12A481B5092}|CareHub\\CareHub.csproj|d:\\umar fyp\\fyp umar\\carehub\\carehub\\controllers\\providercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47F98714-C508-48C8-B959-D12A481B5092}|CareHub\\CareHub.csproj|solutionrelative:carehub\\controllers\\providercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47F98714-C508-48C8-B959-D12A481B5092}|CareHub\\CareHub.csproj|d:\\umar fyp\\fyp umar\\carehub\\carehub\\models\\commonfunctions\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47F98714-C508-48C8-B959-D12A481B5092}|CareHub\\CareHub.csproj|solutionrelative:carehub\\models\\commonfunctions\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47F98714-C508-48C8-B959-D12A481B5092}|CareHub\\CareHub.csproj|d:\\umar fyp\\fyp umar\\carehub\\carehub\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47F98714-C508-48C8-B959-D12A481B5092}|CareHub\\CareHub.csproj|solutionrelative:carehub\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Umar Fyp\\FYP UMAR\\CareHub\\CareHub\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "CareHub\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Umar Fyp\\FYP UMAR\\CareHub\\CareHub\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "CareHub\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T10:53:25.443Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "D:\\Umar Fyp\\FYP UMAR\\CareHub\\CareHub\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "CareHub\\Controllers\\PatientController.cs",
+              "ToolTip": "D:\\Umar Fyp\\FYP UMAR\\CareHub\\CareHub\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "CareHub\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T16:18:12.32Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProviderController.cs",
+              "DocumentMoniker": "D:\\Umar Fyp\\FYP UMAR\\CareHub\\CareHub\\Controllers\\ProviderController.cs",
+              "RelativeDocumentMoniker": "CareHub\\Controllers\\ProviderController.cs",
+              "ToolTip": "D:\\Umar Fyp\\FYP UMAR\\CareHub\\CareHub\\Controllers\\ProviderController.cs",
+              "RelativeToolTip": "CareHub\\Controllers\\ProviderController.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAkwH4AAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T11:20:14.227Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExtensionMethods.cs",
+              "DocumentMoniker": "D:\\Umar Fyp\\FYP UMAR\\CareHub\\CareHub\\Models\\CommonFunctions\\ExtensionMethods.cs",
+              "RelativeDocumentMoniker": "CareHub\\Models\\CommonFunctions\\ExtensionMethods.cs",
+              "ToolTip": "D:\\Umar Fyp\\FYP UMAR\\CareHub\\CareHub\\Models\\CommonFunctions\\ExtensionMethods.cs",
+              "RelativeToolTip": "CareHub\\Models\\CommonFunctions\\ExtensionMethods.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAuwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T19:45:17.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "D:\\Umar Fyp\\FYP UMAR\\CareHub\\CareHub\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "CareHub\\Controllers\\AppointmentController.cs",
+              "ToolTip": "D:\\Umar Fyp\\FYP UMAR\\CareHub\\CareHub\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "CareHub\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T11:27:08.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\Umar Fyp\\FYP UMAR\\CareHub\\CareHub\\Models\\DataBase\\Appointment.cs",
+              "RelativeDocumentMoniker": "CareHub\\Models\\DataBase\\Appointment.cs",
+              "ToolTip": "D:\\Umar Fyp\\FYP UMAR\\CareHub\\CareHub\\Models\\DataBase\\Appointment.cs",
+              "RelativeToolTip": "CareHub\\Models\\DataBase\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T11:26:52.27Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
