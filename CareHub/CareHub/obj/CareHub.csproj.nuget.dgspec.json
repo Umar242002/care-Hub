@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FYP UMAR\\CareHub\\CareHub\\CareHub.csproj": {}
+    "D:\\Umar Fyp\\FYP UMAR\\CareHub\\CareHub\\CareHub.csproj": {}
   },
   "projects": {
-    "D:\\FYP UMAR\\CareHub\\CareHub\\CareHub.csproj": {
+    "D:\\Umar Fyp\\FYP UMAR\\CareHub\\CareHub\\CareHub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FYP UMAR\\CareHub\\CareHub\\CareHub.csproj",
+        "projectUniqueName": "D:\\Umar Fyp\\FYP UMAR\\CareHub\\CareHub\\CareHub.csproj",
         "projectName": "CareHub",
-        "projectPath": "D:\\FYP UMAR\\CareHub\\CareHub\\CareHub.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\FYP UMAR\\CareHub\\CareHub\\obj\\",
+        "projectPath": "D:\\Umar Fyp\\FYP UMAR\\CareHub\\CareHub\\CareHub.csproj",
+        "packagesPath": "C:\\Users\\LPT799.PROSOFT\\.nuget\\packages\\",
+        "outputPath": "D:\\Umar Fyp\\FYP UMAR\\CareHub\\CareHub\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LPT799.PROSOFT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -50,6 +50,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.66, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.0, )"
@@ -92,7 +100,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

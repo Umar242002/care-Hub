@@ -23,6 +23,7 @@ namespace CareHub.Models.DataBase
         public DateTime? AddedDate { get; set; }
         public string UpdatedBy { get; set; } = "";
         public DateTime? UpdatedDate { get; set; }
+        public DateTime? VisitInterval { get; set; }
         public string InActiveBy { get; set; } = "";
         public bool? InActive { get; set; }
 

@@ -1,5 +1,6 @@
 using CareHub.Models.DbContext;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,8 +12,10 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 // Add DbContext for dependency injection
-builder.Services.AddDbContext<CareHubContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+//builder.Services.AddDbContext<CareHubContext>(options =>
+//    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+builder.Services.AddDbContext<CareHubContext>(opts => opts.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"),
+sqlServerOptions => sqlServerOptions.CommandTimeout(96000)));
 
 // Configure CORS
 builder.Services.AddCors(options =>
